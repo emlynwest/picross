@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"picross/types"
+	"github.com/emlynwest/picross/types"
 	"testing"
 )
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"picross/engine"
-	"picross/types"
+	"github.com/emlynwest/picross/engine"
+	"github.com/emlynwest/picross/types"
 )
 
 func main() {
