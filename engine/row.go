@@ -4,6 +4,7 @@ import (
 	"github.com/emlynwest/picross/types"
 )
 
+// TallRow calculates hints for a given row
 func TallyRow(r *types.Row) *types.Hint {
 	c := types.Hint{}
 

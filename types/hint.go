@@ -1,7 +1,9 @@
 package types
 
+// Hint defines a row or column of hint numbers
 type Hint []int
 
+// Equal returns true if two Hints are the same
 func (r *Hint) Equal(c *Hint) bool {
 
 	if r == nil && c == nil {
